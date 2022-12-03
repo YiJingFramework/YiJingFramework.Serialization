@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YiJingFramework.Serialization", "YiJingFramework.Serialization\YiJingFramework.Serialization.csproj", "{373B8955-40FD-4E17-8F81-210D9ABAFEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YiJingFramework.SerializationTests", "YiJingFramework.SerializationTests\YiJingFramework.SerializationTests.csproj", "{C7526363-CADB-4CE4-ACEB-49884189598B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{373B8955-40FD-4E17-8F81-210D9ABAFEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373B8955-40FD-4E17-8F81-210D9ABAFEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373B8955-40FD-4E17-8F81-210D9ABAFEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373B8955-40FD-4E17-8F81-210D9ABAFEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7526363-CADB-4CE4-ACEB-49884189598B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7526363-CADB-4CE4-ACEB-49884189598B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7526363-CADB-4CE4-ACEB-49884189598B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7526363-CADB-4CE4-ACEB-49884189598B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {494B5A5B-D400-498F-933C-C952C79C0050}
+	EndGlobalSection
+EndGlobal
